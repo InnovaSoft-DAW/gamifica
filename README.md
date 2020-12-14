@@ -1,1 +1,1 @@
-Gamifica
+Gamifica Project

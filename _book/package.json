@@ -1,0 +1,22 @@
+{
+  "name": "gamifica",
+  "version": "1.0.0",
+  "description": "gamifica project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovaSoft-DAW/gamifica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnovaSoft-DAW/gamifica/issues"
+  },
+  "homepage": "https://github.com/InnovaSoft-DAW/gamifica#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
