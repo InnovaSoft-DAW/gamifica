@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bienvenido a Gamifica
 
-You can use the [editor on GitHub](https://github.com/InnovaSoft-DAW/gamifica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Que et semblaria si poguessis jugar mini jocs online alhora que aprens i et diverteixes?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Som InnovaSoft, un grup de joves emprenedors dedicats al desenvolupament d’aplicacions web amb gran ambició per dur a terme nous reptes.
 
-### Markdown
+Creus que seria interessant utilitzar la gamificació com a eina d'aprenentatge?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nosaltres t’oferim la possibilitat de gaudir de minijocs amb reptes educatius!
+També podrás disfrutar de un sistema de classificació per poder veure el teu progrés i competir amb altres usuaris i fins i tot poder arribar a veure el codi per poder aprendre.
 
-```markdown
-Syntax highlighted code block
+Amb la gamificació, es para més atenció! 
 
-# Header 1
-## Header 2
-### Header 3
+Em podría facilitar el seu número de contacte i ho parlem?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InnovaSoft-DAW/gamifica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
