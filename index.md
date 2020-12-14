@@ -13,3 +13,5 @@ Amb la gamificació, es para més atenció!
 
 Em podría facilitar el seu número de contacte i ho parlem?
 
+[GitBook](https://innovasoft-daw-gamifica.gitbook.io/gamifica/) 
+
